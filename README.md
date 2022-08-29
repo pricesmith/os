@@ -6,7 +6,7 @@ Learning about OS's by writing them.
 
 #### Knoldus Blog Series
 - [Getting Started with the Writing of Operating Systems in Rust](https://blog.knoldus.com/getting-started-with-the-writing-of-operating-system-rust/)
-- []()
+- [OS in Rust: An executable that runs on bare metal: Part-1](https://blog.knoldus.com/os-in-rust-an-executable-that-runs-on-bare-metal-part-1/)
 - [OS in Rust: An executable that runs on bare metal: Part-2](https://blog.knoldus.com/os-in-rust-an-executable-that-runs-on-bare-metal-part-2/)
 - [OS in Rust: Custom target to build kernel for a bare metal: Part-3](https://blog.knoldus.com/os-in-rust-custom-target-to-build-kernel-for-a-bare-metal-part-3/)
 - [OS in Rust: Building kernel for custom target: Part-4](https://blog.knoldus.com/os-in-rust-building-kernel-for-custom-target-part-4/)
