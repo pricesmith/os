@@ -1,8 +1,27 @@
 # os
 Learning about OS's by writing them. 
 
-### Tutes
+## Tutes
 - [Minimal Kernal in Rust](https://os.phil-opp.com/minimal-rust-kernel/)
+
+#### Uncle Scientist (YT)
+- [Writing an OS in Rust - Part 1 - A Freestanding Rust Binary](https://www.youtube.com/watch?v=rH5jnbJ3tL4&list=PLib6-zlkjfXkdCjQgrZhmfJOWBk_C2FTY)
+- [Writing an OS in Rust - Part 2 - A Minimal Rust Kernel](https://www.youtube.com/watch?v=AYyybz3gm6A&list=PLib6-zlkjfXkdCjQgrZhmfJOWBk_C2FTY&index=2)
+- [Writing an OS in Rust - Part 3 - VGA Text Mode](https://www.youtube.com/watch?v=DA2zIAkE26Q&list=PLib6-zlkjfXkdCjQgrZhmfJOWBk_C2FTY&index=3)
+- [Writing an OS in Rust - Part 4 - Testing](https://www.youtube.com/watch?v=zTzwgKac8kA&list=PLib6-zlkjfXkdCjQgrZhmfJOWBk_C2FTY&index=4)
+- [Writing an OS in Rust - Part 5 - CPU Exceptions](https://www.youtube.com/watch?v=TsoskgYAMf4&list=PLib6-zlkjfXkdCjQgrZhmfJOWBk_C2FTY&index=5)
+- [Writing an OS in Rust - Part 6 - Double Faults](https://www.youtube.com/watch?v=TsoskgYAMf4&list=PLib6-zlkjfXkdCjQgrZhmfJOWBk_C2FTY&index=6)
+- [Writing an OS in Rust - Part 7 - Hardware Interrupts](https://www.youtube.com/watch?v=16lYfmgC9QQ&list=PLib6-zlkjfXkdCjQgrZhmfJOWBk_C2FTY&index=7)
+- [Writing an OS in Rust - Part 8 - Introduction to Paging](https://www.youtube.com/watch?v=16lYfmgC9QQ&list=PLib6-zlkjfXkdCjQgrZhmfJOWBk_C2FTY&index=8)
+- [](https://www.youtube.com/watch?v=16lYfmgC9QQ&list=PLib6-zlkjfXkdCjQgrZhmfJOWBk_C2FTY&index=9)
+- [](https://www.youtube.com/watch?v=16lYfmgC9QQ&list=PLib6-zlkjfXkdCjQgrZhmfJOWBk_C2FTY&index=10)
+- [](https://www.youtube.com/watch?v=16lYfmgC9QQ&list=PLib6-zlkjfXkdCjQgrZhmfJOWBk_C2FTY&index=11)
+- [](https://www.youtube.com/watch?v=16lYfmgC9QQ&list=PLib6-zlkjfXkdCjQgrZhmfJOWBk_C2FTY&index=12)
+- [](https://www.youtube.com/watch?v=16lYfmgC9QQ&list=PLib6-zlkjfXkdCjQgrZhmfJOWBk_C2FTY&index=13)
+- [](https://www.youtube.com/watch?v=16lYfmgC9QQ&list=PLib6-zlkjfXkdCjQgrZhmfJOWBk_C2FTY&index=14)
+- [](https://www.youtube.com/watch?v=16lYfmgC9QQ&list=PLib6-zlkjfXkdCjQgrZhmfJOWBk_C2FTY&index=15)
+- [](https://www.youtube.com/watch?v=16lYfmgC9QQ&list=PLib6-zlkjfXkdCjQgrZhmfJOWBk_C2FTY&index=16)
+- [](https://www.youtube.com/watch?v=16lYfmgC9QQ&list=PLib6-zlkjfXkdCjQgrZhmfJOWBk_C2FTY&index=17)
 
 #### Knoldus Blog Series
 - [Getting Started with the Writing of Operating Systems in Rust](https://blog.knoldus.com/getting-started-with-the-writing-of-operating-system-rust/)
